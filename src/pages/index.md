@@ -36,9 +36,10 @@ sections:
       - type: feature
         template: feature
         title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+        content: >
+          ![](https://cdn.forestry.io/res2/E3HubGKJnj\_0gSxR6RKThDL0I99FJMYMKEUNmjwTPII/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUlVGVVdtY3dQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tZGE1/ZTM5YWRlMDBlMzhi/NGMyYzE3ODBiZGUw/YmFlMTQ5MzUzMGVk/Yi9oYW5zb24tZGVj/ay5qcGc)Lorem
+          ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
+          cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         align: left
         image: /images/gordon-norman.jpg
